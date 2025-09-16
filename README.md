@@ -1,2 +1,2 @@
 # BlackJack
-Blackjack game 
+Blackjack game using Java Framework
